@@ -1,0 +1,7 @@
+1. Register app - https://github.com/settings/developers
+2. Get the Client ID and Client Secret
+3. Visit the following url to get Github Code - https://github.com/login/oauth/authorize?client_id=<CLIENTID>&scope=<USERNAME>:<EMAIL>,repo
+4. Get the Github Code
+5. visit the following url and Get the Access Token - https://github.com/login/oauth/access_token?client_id=<CLIENTID>&client_secret=<CLIENTSECRET>&code=<CODE>
+6. copy the access token
+7. done
